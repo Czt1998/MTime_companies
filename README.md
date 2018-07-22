@@ -17,3 +17,4 @@ error handling
 # Sample
 Take Let the bullets fly（让子弹飞）as an example. <br>
 First get the search page. <br>
+![Search](https://github.com/Czt1998/MTime_companies/blob/master/MTime_pic/Search_page)
