@@ -16,5 +16,5 @@ regular expression
 error handling
 # Sample
 Take Let the bullets fly（让子弹飞）as an example. <br>
-First get the search page. <br>
+First get the search page and get the id of this movie. <br>
 ![Search](https://github.com/Czt1998/MTime_companies/blob/master/MTime_pic/Search_page)
